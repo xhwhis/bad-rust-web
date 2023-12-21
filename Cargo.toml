@@ -1,0 +1,3 @@
+[workspace]
+members = ["bad-actix", "bad-axum", "bad-poem", "bad-rocket", "good-tide"]
+resolver = "2"
